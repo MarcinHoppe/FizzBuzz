@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcinHoppe.FizzBuzz.Test",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcinHoppe.FizzBuzz", "Src\MarcinHoppe.FizzBuz\MarcinHoppe.FizzBuzz.csproj", "{B38A641C-D61A-4A0C-A7F1-86BBE8A648D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcinHoppe.FizzBuzz.App", "Src\MarcinHoppe.FizzBuzz.App\MarcinHoppe.FizzBuzz.App.csproj", "{619BFBD3-369B-40E2-AD55-82EF355DE721}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B38A641C-D61A-4A0C-A7F1-86BBE8A648D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B38A641C-D61A-4A0C-A7F1-86BBE8A648D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B38A641C-D61A-4A0C-A7F1-86BBE8A648D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{619BFBD3-369B-40E2-AD55-82EF355DE721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619BFBD3-369B-40E2-AD55-82EF355DE721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619BFBD3-369B-40E2-AD55-82EF355DE721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619BFBD3-369B-40E2-AD55-82EF355DE721}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
