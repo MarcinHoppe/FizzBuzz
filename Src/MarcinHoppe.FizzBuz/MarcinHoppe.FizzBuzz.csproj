@@ -7,8 +7,8 @@
     <ProjectGuid>{B38A641C-D61A-4A0C-A7F1-86BBE8A648D9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MarcinHoppe.FizzBuz</RootNamespace>
-    <AssemblyName>MarcinHoppe.FizzBuz</AssemblyName>
+    <RootNamespace>MarcinHoppe.FizzBuzz</RootNamespace>
+    <AssemblyName>MarcinHoppe.FizzBuzz</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FizzBuzz.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
