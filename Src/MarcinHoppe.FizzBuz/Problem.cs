@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace MarcinHoppe.FizzBuzz
 {
-    public static class FizzBuzzProblem
+    public static class Problem
     {
-        public static string UpTo(int n)
+        public static string SolveUpTo(int n)
         {
             return "1";
         }
