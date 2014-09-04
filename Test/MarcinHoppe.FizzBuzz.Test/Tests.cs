@@ -4,11 +4,12 @@ using Xunit;
 
 namespace MarcinHoppe.FizzBuzz.Test
 {
-    class Tests
+    public class Tests
     {
         [Fact]
         public void One()
         {
+            Assert.Equal("1", Problem.SolveUpTo(1));
         }
     }
 }
